@@ -2,3 +2,4 @@
 
 <h1> Notes </h1>
 Code for surgical tools sorting robot run in Quanser Labs environment 
+Muscle movements are detected through interface in Quanser Labs' simulation environment
